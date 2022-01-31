@@ -1,0 +1,15 @@
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\Activity10.exe
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\Activity10.deps.json
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\Activity10.runtimeconfig.json
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\Activity10.dll
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\ref\Activity10.dll
+C:\Users\noahl\source\repos\Activity10\Activity10\bin\Debug\net6.0\Activity10.pdb
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.AssemblyInfo.cs
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.dll
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\ref\Activity10.dll
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.pdb
+C:\Users\noahl\source\repos\Activity10\Activity10\obj\Debug\net6.0\Activity10.genruntimeconfig.cache
